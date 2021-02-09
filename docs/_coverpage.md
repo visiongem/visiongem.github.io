@@ -1,12 +1,10 @@
-![logo](images/icon.jpg)
-
 # Yane.zZ 的博客 
 
 [GitHub](https://github.com/visiongem)
 
 <!-- 背景图片 -->
 
-![](images/icon.jpg)
+![](images/public/background.jpg)
 
 <!-- 背景色 -->
 

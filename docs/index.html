@@ -17,10 +17,27 @@
       loadSidebar: true,
       loadNavbar: true,
       coverpage:true,
-      maxLevel: 10
+      maxLevel: 10,
+      subMaxLevel: 6,
+      search: 'auto', // 默认值
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- 缩放图片 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- 正确解析 emoji 字符串的插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <!-- docsify的分页导航插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 为docsify提供文字统计的插件 -->
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 </body>
 </html>
