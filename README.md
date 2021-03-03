@@ -1,5 +1,6 @@
 # Hexo-Theme-LiveMyLife
 
+<<<<<<< HEAD
 > Ported Theme of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
 >
 > This LiveMyLife theme created by [Vincent](https://v-vincen.github.io/) modified from the original Porter [YenYuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech) , refer to the Themes of [dusign](https://github.com/dusign/hexo-theme-snail)、[Utone](https://github.com/shixiaohu2206/hexo-theme-huhu), Thanks [dusign](https://github.com/dusign/hexo-theme-snail)、[Utone](https://github.com/shixiaohu2206/hexo-theme-huhu).
@@ -418,3 +419,10 @@ hexo deploy   # hexo will push the static files automatically into the specific 
 ## Have fun ^\_^
 
 Please [Star](https://github.com/V-Vincen/hexo-theme-livemylife) this Project if you like it! [Follow](https://github.com/V-Vincen) would also be appreciated! Peace!
+=======
+Yane: 一个懒洋洋的程序媛 👋
+
+Wechat: visionxi 👈
+
+互相交流，互相进步！🍭
+>>>>>>> d0cf48f2ac850b40dd9321591d8e8832d9355a8f
