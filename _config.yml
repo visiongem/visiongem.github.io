@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Live My Life
+title: Welcome to My Life
 subtitle: 淡而无味也是一种味道
 author: Yane.zZ
 language: zh-CN
@@ -30,8 +30,8 @@ permalink_defaults:
 
 # Site settings
 SEOTitle: either thin | or die
-email: hexo-theme-livemylife@gmail.com
-description: "It's an IT blog..."
+email: 393507488@qq.com
+description: "It's an Yane.zZ blog..."
 keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
 header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
@@ -306,5 +306,5 @@ gitter:
 ##
 deploy:
   type: git
-  repo: https://github.com/<yourAccount>/<repo> # or https://gitee.com/<yourAccount>/<repo>
-  branch: <your-branch>
+  repo: https://github.com/visiongem/visiongem.github.io # or https://gitee.com/<yourAccount>/<repo>
+  branch: main
