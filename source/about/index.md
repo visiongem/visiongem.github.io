@@ -1,9 +1,9 @@
 ---
 layout: "about"
 title: "About"
-date: 2016-04-21 04:48:33
+date: 2021-03-02 02:08:21
 description: "那些年吹过的牛逼，还有很多没有实现 ......"
-header-img: "img/scenery/about_bg.jpg"
+header-img: "img/scenery/bg_about.jpg"
 ---
 
 ## Talk To Me
@@ -18,7 +18,7 @@ header-img: "img/scenery/about_bg.jpg"
 
 ## Just Me
 
-<img src="../img/scenery/about_bg2.jpg" width="350" alt="about_bg2"></img>
+<img src="../img/scenery/bg_about2.jpg" width="350" alt="bg_about2"></img>
 
 > 有一种状态 叫一个人 它总是挑战语言的贫乏 只能在某首歌中找寻灵感；
 >
@@ -38,7 +38,7 @@ header-img: "img/scenery/about_bg.jpg"
 
 ## The Longest Way ...
 
-<img src="../img/scenery/about_bg4.jpg" width="350" alt="about_bg4"></img>
+<img src="../img/scenery/bg_about3.jpg" width="350" alt="bg_about3"></img>
 
 >  活在当下 然后忘记 继续往前走 ...
 >
@@ -67,9 +67,12 @@ header-img: "img/scenery/about_bg.jpg"
 
 ## Contact me
 
-> Email：601521821@qq.com
+> Email：393507488@qq.com
+
+<img src="../img/scenery/contact_me.png" width="350" alt="contact_me.png"></img>
 
 ## Treat me to coffee
 >  If you feel that what I have written is of some value to you, I am glad that you are willing to invite me to drink coffee...
 
-<img src="../img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img>
+<img src="../img/scenery/wechat_pay.png" width="350" alt="wechat_pay.png"></img>
+<img src="../img/scenery/alipay_pay.png" width="350" alt="alipay_pay.png"></img>
