@@ -40,8 +40,8 @@ archives-img: img/header_img/archive_bg2.jpg
 favicon: img/avatar/favicon.ico
 
 # Signature Setup
-signature: true # show signature
-signature-img: img/signature/vincent-white.png
+#signature: true # show signature
+#signature-img: img/signature/vincent-white.png
 
 # Wave settings
 wave: true
@@ -78,7 +78,7 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 friends: [
     {
         title: "Yane.zZ",
-        href: "https://github.com/visiongemg"
+        href: "https://github.com/visiongem"
     },{
         title: "zhaoolee",
         href: "https://github.com/zhaoolee"
@@ -86,8 +86,7 @@ friends: [
         title: "Hexo",
         href: "https://hexo.io/"
     }
-]s
-
+]
 
 # Comment Settings
 

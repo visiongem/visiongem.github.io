@@ -96,7 +96,7 @@ Replace the following information with your own.
 # Site
 title: Live My Life
 subtitle: 淡而无味也是一种味道
-author: Mr.Vincent
+author: Yane.zZ
 language: zh-CN
 timezone:
 ```
