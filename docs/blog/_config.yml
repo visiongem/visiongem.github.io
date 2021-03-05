@@ -37,7 +37,7 @@ header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
 # Favicon settings
-favicon: img/avatar/avater_me.jpeg
+favicon: img/avatar/favicon.ico
 
 # Signature Setup
 signature: true # show signature
@@ -77,19 +77,16 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 ## Friends
 friends: [
     {
-        title: "V_Vincen",
-        href: "https://v-vincen.life/"
+        title: "Yane.zZ",
+        href: "https://github.com/visiongemg"
     },{
-        title: "Bean Tech",
-        href: "http://beantech.org"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "zhaoolee",
+        href: "https://github.com/zhaoolee"
     },{
         title: "Hexo",
         href: "https://hexo.io/"
     }
-]
+]s
 
 
 # Comment Settings
