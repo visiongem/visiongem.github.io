@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Welcome to My Life
+title: Welcome to Yane.zZ's Life
 subtitle: 淡而无味也是一种味道
 author: Yane.zZ
 language: zh-CN
@@ -36,35 +36,26 @@ keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
 header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
-
 # Favicon settings
-favicon: img/avatar/roguerabbit.jpg
-
+favicon: img/avatar/avater_me.jpeg
 
 # Signature Setup
 signature: true # show signature
 signature-img: img/signature/vincent-white.png
 
-
 # Wave settings
 wave: true
 
-
 # SNS Settings
 # RSS: true
-github_username: V-Vincen
-twitter_username: V_Vincen_
-instagram_username: v_vincen_
-# facebook_username:  yourAccount
-# linkedin_username:  yourAccount
-# zhihu_username: WVincen
-weibo_username: WVincen
-
+github_username: visiongem
+weibo_username: 陪伴zhe伱
+wechat_username: Yane.zZ
 
 # Sidebar Settings
 sidebar: true   # whether or not using Sidebar.
 sidebar-about-description: "Fat people have no future, either thin or die..."
-sidebar-avatar: img/avatar/fatpeople.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar/avater_me.jpeg    # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - visitor   # busuanzi: https://busuanzi.ibruce.info/
 - featured-tags
@@ -73,7 +64,6 @@ widgets:
 - friends-blog
 - archive
 - category
-
 
 # widget behavior
 ## Archive
@@ -298,7 +288,7 @@ theme: livemylife
 ## Docs:https://gitter.im/?utm_source=left-menu-logo
 ##
 gitter:
-  room: your-community/your-room
+  room: CN/SZ
 
 
 # Deployment
