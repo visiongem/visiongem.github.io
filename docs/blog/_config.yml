@@ -3,12 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Welcome to Yane.zZ's Life
+title: Welcome to Yane's Life
 subtitle: 淡而无味也是一种味道
 author: Yane.zZ
 language: zh-CN
 timezone:
-
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -33,7 +32,7 @@ SEOTitle: either thin | or die
 email: 393507488@qq.com
 description: "It's an Yane.zZ blog..."
 keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
-header-img: img/header_img/newhome_bg.jpg
+header-img: img/header_img/bg_home.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
 # Favicon settings
@@ -41,7 +40,7 @@ favicon: img/avatar/favicon.ico
 
 # Signature Setup
 #signature: true # show signature
-#signature-img: img/signature/vincent-white.png
+#signature-img: img/signature/signature.png
 
 # Wave settings
 wave: true
@@ -49,7 +48,7 @@ wave: true
 # SNS Settings
 # RSS: true
 github_username: visiongem
-weibo_username: 陪伴zhe伱
+weibo_username: 3538717990/profile?topnav=1&wvr=6&is_all=1
 wechat_username: Yane.zZ
 
 # Sidebar Settings
@@ -102,7 +101,7 @@ gitalk:
   perPage: 10                     # Pagination size, with maximum 100.
   pagerDirection: last            # Comment sorting direction, available values are last and first.
   createIssueManually: false      # By default, Gitalk will create a corresponding github issue for your every single page automatically when the logined user is belong to the admin users. You can create it manually by setting this option to true
-  language: en                    # Localization language key, en, zh-CN and zh-TW are currently available.
+  language: zh-CN                 # Localization language key, en, zh-CN and zh-TW are currently available.
   maxCommentHeight: 250           # An optional number to limit comments' max height, over which comments will be folded.Default 250.
 
 ## Gitment Settings
@@ -120,7 +119,6 @@ gitalk:
 ## Disqus settings
 ##
 # disqus_username: your-disqus-ID
-
 
 # Analytics settings
 
@@ -142,8 +140,6 @@ baidu_push: true
 
 # Custom Setting End
 
-
-
 # Directory
 source_dir: source
 public_dir: public
@@ -153,7 +149,6 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-
 
 # Writing
 new_post_name: :title.md    # File name of new posts
@@ -172,13 +167,11 @@ highlight:
   auto_detect: true
   tab_replace:
 
-
 # Category & Tag
 default_category: uncategorized
 category_map:
 tag_map:
 home_posts_tag: true    # show posts tags
-
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -187,7 +180,6 @@ home_posts_tag: true    # show posts tags
 ##
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
-
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -201,7 +193,6 @@ archive_generator:
   monthly: true
   daily: false
 
-
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
 ##
@@ -214,14 +205,11 @@ markdown:
     typographer: true
     quotes: '“”‘’'
 
-
 # Build Settings
 anchorjs: true    # if you want to customize anchor. check out line:26 of `anchorjs.ejs`
 
-
 # article top
 top: true
-
 
 # WordCount Settings
 ## Dependencies: https://github.com/willin/hexo-wordcount
@@ -237,7 +225,6 @@ busuanzi: true
 # top scroll progress
 scroll: true
 
-
 # Tip
 tip:
   enable: true
@@ -249,17 +236,14 @@ tip:
 ##
 socialshare: true
 
-
 # Viewer config
 ## Docs:https://github.com/fengyuanchen/viewer
 ## Demo:https://fengyuanchen.github.io/viewer/
 ##
 viewer: true
 
-
 # ThemeColor config
 themecolor: true
-
 
 # Search Setting
 ## Search: https://go.kieran.top/post/45/
@@ -273,12 +257,10 @@ search:
   trigger: auto   # if 'auto', trigger search by changing input;if 'manual', trigger search by pressing enter key or search button
   top_n_per_article: 1    # show top n results per article, show all results by setting to -1
 
-
 # Theme config
 ## Themes: https://hexo.io/themes/
 ##
 theme: livemylife
-
 
 # Gitter
 ## Docs:https://gitter.im/?utm_source=left-menu-logo
