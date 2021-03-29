@@ -5,7 +5,6 @@ layout: page
 
 <% page.posts.each(function(post){ %>
 <div class="post-preview">
-
   <% if (config.top) { %>
   <!-- top start (article top hot config) -->
   <% if(post.top){%>
@@ -15,7 +14,6 @@ layout: page
   <% } %>
   <!-- top end -->
   <% } %>
-
 
   <a href="<%- config.root %><%- post.path %>">
     <h2 class="post-title">
