@@ -275,4 +275,4 @@ gitter:
 deploy:
   type: git
   repo: https://github.com/visiongem/visiongem.github.io # or https://gitee.com/<yourAccount>/<repo>
-  branch: master
+  branch: main
